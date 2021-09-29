@@ -37,7 +37,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>蓝奏云：</li><li>阿里云盘：</li><li>GitHub：https://github.com/MY214000/SCITC_Auto_Health_information</li></ul>
+<ul><li>蓝奏云：<a href="https://lee798.lanzoui.com/b0ag7xcod" target="_blank" rel="noreferrer noopener">https://lee798.lanzoui.com/b0ag7xcod</a>  密码:<span class="has-inline-color has-luminous-vivid-orange-color">cozl</span></li><li>阿里云盘：</li><li>GitHub：https://github.com/MY214000/SCITC_Auto_Health_information</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:heading {"level":3} -->
