@@ -1,0 +1,27 @@
+###############################################################################
+#     本项目的源代码在MPL2.0协议下发布，同时附加以下条目：                          #
+#        非商业性使用 — 不得将此项目用于任何商业和盈利用途                          #
+###############################################################################
+users:
+  - user:
+    username: "木羽" # 备注信息
+    Cookie_openid: "openid=" # 智慧川信的openid
+    InSchool: "在校"
+    GoOutYN: "在广元"
+    lat: '32.4410401' # 维度
+    lon: '105.895168' # 经度
+    qmsg_qq: "" # qmsg推送的qq号
+    isGroup: 1 # qmsg推送是否为群 0/1
+    qmsg_key: "" # qmsg推送的key
+    receiving_mailbox: "lee.poch@qq.com" # 收件邮箱
+  - user:
+    username: "" # 备注信息
+    Cookie_openid: "openid=" # 智慧川信的openid
+    InSchool: ""
+    GoOutYN: ""
+    lat: ''
+    lon: ''
+    qmsg_qq: "" # qmsg推送的qq号
+    isGroup: 0
+    qmsg_key: "" # qmsg推送的key
+    receiving_mailbox: "" # 收件邮箱
