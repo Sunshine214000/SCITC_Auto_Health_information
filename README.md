@@ -1,5 +1,5 @@
-# SCITC|智慧川信自动填报
-
+# SCITC|智慧川信自动填报（已失效）
+# 最新打卡版本：https://github.com/Sunshine214000/SCITC_Auto_push
 <!-- wp:pullquote -->
 <figure class="wp-block-pullquote"><blockquote><p>SCITC|智慧川信微信公众号健康信息自动填报</p><cite>微信公众号：木羽实验室</cite></blockquote></figure>
 <!-- /wp:pullquote -->
