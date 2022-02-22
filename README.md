@@ -1,6 +1,6 @@
 # SCITC|智慧川信自动填报（已失效）
 # 最新打卡版本：https://github.com/Sunshine214000/SCITC_Auto_push
-# <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=qaRwaSma5K8xWpTFY95q9_6YI58QnABi&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="SCITC|吹牛逼交流群" title="SCITC|吹牛逼交流群"></a>
+# 技术交流SCITC|吹牛逼交流群：<a rel="noreferrer noopener" href="https://qm.qq.com/cgi-bin/qm/qr?k=qaRwaSma5K8xWpTFY95q9_6YI58QnABi&jump_from=webapi" target="_blank">513816686</a>
 <!-- wp:pullquote -->
 <figure class="wp-block-pullquote"><blockquote><p>SCITC|智慧川信微信公众号健康信息自动填报</p><cite>微信公众号：木羽实验室</cite></blockquote></figure>
 <!-- /wp:pullquote -->
