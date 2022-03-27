@@ -19,7 +19,6 @@ class Qmsg:
     '''Qmsg酱通知类'''
 
     def __init__(self, key, qq, isGroup):
-        # config={'key':'*****','qq':'*****','isgroup':0}
         self.key = key
         self.qq = qq
         self.isGroup = isGroup
@@ -49,8 +48,6 @@ class Qmsg:
                                     'qq': self.qq
                                 })
             return str(res)
-            #    code = res.json()['code']
-            #    print(code)
         else:
             print('Qmsg配置出错')
             return 'Qmsg配置出错'
