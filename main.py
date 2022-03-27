@@ -28,7 +28,7 @@ class Qmsg:
     def isCorrectConfig(self):
         # 简单检查key和qq是否合法
         for item in [self.key, self.qq]:
-            if not type(item) == str:
+            if not type(item) is str:
                 return 0
             if len(item) == 0:
                 return 0
@@ -73,7 +73,7 @@ class Smtp:
             return 0
         for item in [self.host, self.user, self.key, self.sender
                      ] + self.receivers:
-            if not type(item) == str:
+            if not type(item) is str:
                 return 0
             if len(item) == 0:
                 return 0
